@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+seaborn
+# -e . 
+#to enable whenever we install above packages we want to trigger setup.py
