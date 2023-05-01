@@ -1,6 +1,11 @@
 pandas
 numpy
-matplotlib
 seaborn
-# -e . 
+matplotlib
+scikit-learn
+xgboost
+dill
+xgboost
+flask
+# -e .
 #to enable whenever we install above packages we want to trigger setup.py
